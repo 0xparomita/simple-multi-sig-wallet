@@ -1,0 +1,8 @@
+{
+  "name": "simple-multi-sig-wallet",
+  "version": "1.0.0",
+  "description": "M-of-N Multi-Signature Wallet",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
